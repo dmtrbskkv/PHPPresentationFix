@@ -1,5 +1,5 @@
 {
-    "name": "dmtrbskkv/php-presentation-fix",
+    "name": "phpoffice/phppresentation",
     "description": "PHPPresentation - Read, Create and Write Presentations documents in PHP",
     "keywords": ["PHP","PowerPoint","LibreOffice","pptx","ppt","odp","presentations"],
     "homepage": "http://phpoffice.github.io",
